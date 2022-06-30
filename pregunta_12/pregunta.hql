@@ -29,7 +29,8 @@ CREATE TABLE t0 (
 LOAD DATA LOCAL INPATH 'data.tsv' INTO TABLE t0;
 
 /*
-    >>> Escriba su respuesta a partir de este punto <<<
+    >>> Escriba su respuesta a partir de este punto  
+    <<<
 */
 CREATE TABLE t0 (
     c1 STRING,
